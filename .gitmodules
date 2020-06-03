@@ -1,0 +1,3 @@
+[submodule "exercises"]
+	path = exercises
+	url = git@github.com:tomshafer/nn4nlp-exercises.git
